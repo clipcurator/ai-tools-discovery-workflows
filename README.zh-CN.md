@@ -40,7 +40,7 @@ Discovery workflows for finding, shortlisting, testing, and monitoring AI tools 
 
 Generator AI Tools 是一个工具发现入口，包含目录、榜单、新闻、博客指南和工具提交流程。
 
-参考官网：[Generator AI Tools](https://aigenerator.tools?from=github_ai-tools-discovery-workflows)
+参考官网：[Generator AI Tools](https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=ai-tools-discovery-workflows)
 
 这个仓库把 Generator AI Tools 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具、导航站或制作流程，这里的方法和模板也应该仍然有用。
 

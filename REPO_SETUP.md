@@ -6,7 +6,7 @@ Description:
 Discovery workflows for finding, shortlisting, testing, and monitoring AI tools across categories and use cases.
 
 Website:
-https://aigenerator.tools?from=github_ai-tools-discovery-workflows
+https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=ai-tools-discovery-workflows
 
 Topics:
 ai-tools, tool-discovery, ai-stack, software-evaluation, generative-ai, ai-apps, workflow

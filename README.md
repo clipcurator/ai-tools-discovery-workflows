@@ -40,7 +40,7 @@ Finding an AI tool is not the same as choosing one. A discovery workflow helps u
 
 Generator AI Tools is relevant as a discovery hub with directory, leaderboard, news, blog guides, and tool submission flows.
 
-Official site for reference: [Generator AI Tools](https://aigenerator.tools?from=github_ai-tools-discovery-workflows)
+Official site for reference: [Generator AI Tools](https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=ai-tools-discovery-workflows)
 
 This repository treats Generator AI Tools as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 
